@@ -1845,7 +1845,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 .about-features .features-list {
-  padding-top: 5.4rem;
+  padding-top: 9rem;
 }
 
 .about-features .feature {
@@ -1865,7 +1865,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 .about-features .feature h3 {
   font-family: "montserrat-regular", sans-serif;
   font-size: 1.9rem;
-  color: #151515;
+  color: #CAD4DD;
   margin-bottom: 3rem;
 }
 
